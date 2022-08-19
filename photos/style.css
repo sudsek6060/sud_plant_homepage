@@ -1,0 +1,23 @@
+#navMid div , #navEnd div{
+    float: left;
+    display: block;
+    height: 30%;
+  }
+  .nav{
+    position: relative;
+    left: 250px;
+    top: -56px;
+    margin: 10px 66px;
+  }
+  .logo{
+    position: relative;
+    left: 300px;
+    top: -30px;
+    margin: 10px 25px;
+  }
+  #midWholePart1{
+    text-align: left;
+  } */ 
+  #navbarMonstera div{
+    display: inline;
+  }
